@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+# Adding config.py file.
+config.py
+# Adding Weather_Database.ipynb
+Weather_Database.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
